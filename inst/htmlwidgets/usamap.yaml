@@ -1,0 +1,14 @@
+# (uncomment to add a dependency)
+dependencies:
+  - name: usamap
+    version: 1.0.0
+    src: htmlwidgets/lib/usamap-1.0.0
+    script:
+      - jquery-1.11.3.min.js
+      - colors.js
+      - jquery.vmap.js
+      - jquery.vmap.usa.js
+      - d3.min.js
+    stylesheet:
+      - extra.css
+

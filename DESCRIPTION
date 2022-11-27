@@ -1,0 +1,12 @@
+Package: usamap
+Title: US Map Visualization for Time-Use Data in R
+Version: 1.0.0
+Authors@R: 
+    person("Kamila", "Kolpashnikova", , "kamilakolpashnikova@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-6338-0977"))
+Description: Draws an interactive US map for state-level data
+License: 3-caluse BSD licence
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.2
+
