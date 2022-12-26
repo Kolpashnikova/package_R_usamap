@@ -31,7 +31,7 @@ the RGB color list for higher values of gradient. The default is red.
 
 You can try the interactive demo here: (https://kolpashnikova.github.io/usmap)
 
-![Transitions](https://github.com/Kolpashnikova/package_R_usmap/blob/main/examples/usmap.png)
+![US Map](https://github.com/Kolpashnikova/package_R_usamap/blob/main/examples/usmap.png)
 
 ### References
 Kolpashnikova, Kamila. (2022). US Map Visualization for Time-Use Data in R. Toronto,ON: York University.
